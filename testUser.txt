@@ -1,0 +1,7 @@
+test
+kali
+toor
+ubuntu
+kali
+root
+user
